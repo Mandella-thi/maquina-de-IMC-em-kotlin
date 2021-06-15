@@ -1,0 +1,2 @@
+com/example/incrivel_maquina_decalcular_imc/BuildConfig.java
+ com.example.incrivel_maquina_decalcular_imc.BuildConfig
